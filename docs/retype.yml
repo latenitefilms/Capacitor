@@ -1,0 +1,45 @@
+input: .
+output: .retype
+
+url: capacitor.pro # Add your website address here
+
+branding:
+  title: Capacitor
+  #label: Docs
+  logo: static/logo.png
+
+links:
+
+- text: Buy on Mac App Store
+  link: /buy/
+  icon: desktop-download
+
+- text: Issues
+  link: https://github.com/latenitefilms/capacitor/issues
+  icon: issue-opened
+  target: blank
+
+- text: Discussions
+  link: https://github.com/latenitefilms/capacitor/discussions
+  icon: comment-discussion
+  target: blank
+
+- text: FCP Cafe
+  link: https://fcp.cafe
+  icon: git-branch
+  target: blank
+
+- text: Chris on Twitter
+  link: https://twitter.com/chrisatlatenite
+  icon: people
+  target: blank
+
+- text: LateNite
+  link: https://latenitefilms.com
+  icon: light-bulb
+  target: blank
+
+footer:
+  copyright: "&copy; Copyright {{ year }} LateNite Films Pty Ltd. All rights reserved."
+
+poweredByRetype: false
