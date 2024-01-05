@@ -5,4 +5,4 @@
 **🎉 Released:**
 - COMING SOON!
 
-This is the first release of Capacitor Pro. Woohoo!
+This is the first release of Capacitor. Woohoo!

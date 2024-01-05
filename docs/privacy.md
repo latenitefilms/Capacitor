@@ -1,12 +1,12 @@
 # Privacy Policy
 
-This is the privacy policy for the Capacitor Pro, macOS Application that is available on the macOS App Store and TestFlight.
+This is the privacy policy for the Capacitor, macOS Application that is available on the macOS App Store and TestFlight.
 
-Capacitor Pro does not collect any user data. No personal information is transmitted, stored, or used by this application.
+Capacitor does not collect any user data. No personal information is transmitted, stored, or used by this application.
 
-Capacitor Pro does not use any third-party analytics or tracking tools. It does not contain any in-app purchases or advertisements.
+Capacitor does not use any third-party analytics or tracking tools. It does not contain any in-app purchases or advertisements.
 
-Capacitor Pro does not communicate with any external servers or services, and it does not access any data on your device beyond what is necessary for the application to function properly.
+Capacitor does not communicate with any external servers or services, and it does not access any data on your device beyond what is necessary for the application to function properly.
 
 Apple may collect and use certain usage and performance data from the apps that are available on the App Store. This data is used to help improve the App Store and the overall user experience.
 
@@ -16,4 +16,4 @@ You can read Apple's App Store Privacy Policy [here](https://www.apple.com/legal
 
 We use this GitHub Repository for documentation hosting and technical support. You can read GitHub's Privacy Policy [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-If you have any questions or concerns, you can [submit an issue](https://github.com/latenitefilms/capacitorpro/issues), or email us: support@latenitefilms.com
+If you have any questions or concerns, you can [submit an issue](https://github.com/latenitefilms/capacitor/issues), or email us: support@latenitefilms.com

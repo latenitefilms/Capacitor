@@ -1,8 +1,8 @@
 # How To Use
 
-Capacitor Pro is currently in **early development**.
+Capacitor is currently in **early development**.
 
-We are aiming to release on TestFlight in late 2023.
+We are aiming to release on TestFlight in early 2024.
 
 We'll update this page once we have a TestFlight release.
 
