@@ -11,7 +11,13 @@
 
 **Capacitor** allows you to easily convert between FCPXML versions.
 
-It's currently in **early development**. We are currently beta testing via Apple's TestFlight. You can learn more [here](/how-to-use/).
+![](/static/homepage.png)
+
+!!!
+Capacitor is currently in **early development**.<br />
+We are currently beta testing via Apple's TestFlight.<br />
+You can learn more [here](/how-to-use/).
+!!!
 
 For example, if you're working on **Final Cut Pro 10.7**, but you have an online artist on an older Autodesk Flame, you can convert from FCPXML `v1.11` to `v1.9`.
 
