@@ -1,9 +1,11 @@
 # Frequently Asked Questions
 
-Capacitor is currently in **early development**.
-
-We are aiming to release on TestFlight in early 2024.
-
-We'll update this page once we have a TestFlight release.
-
 Got ideas or questions? Post them on our [Discussions page](https://github.com/latenitefilms/capacitor/discussions)!
+
+---
+
+## Will you add support earlier versions of FCPXML?
+
+If there's enough interest, we're open to supporting earlier versions of FCPXML.
+
+Please submit a feature request [here](https://github.com/latenitefilms/capacitor/issues).

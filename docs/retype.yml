@@ -15,12 +15,12 @@ links:
   icon: desktop-download
 
 - text: Issues
-  link: https://github.com/latenitefilms/capacitorpro/issues
+  link: https://github.com/latenitefilms/capacitor/issues
   icon: issue-opened
   target: blank
 
 - text: Discussions
-  link: https://github.com/latenitefilms/capacitorpro/discussions
+  link: https://github.com/latenitefilms/capacitor/discussions
   icon: comment-discussion
   target: blank
 
