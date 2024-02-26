@@ -19,7 +19,9 @@ Or if you have an old FCPXML in your archives, you can upgrade from `v1.8` to `v
 
 If there are differences between FCPXML versions, Capacitor will offer a list of warnings that you can also export.
 
-Because Capacitor ensures it outputs FCPXML following Apple's strict DTD rules, you can also use Capacitor to "clean" FCPXMLs.
+Because Capacitor ensures it outputs FCPXML following Apple's strict DTD rules, you can also use Capacitor to "clean" FCPXMLs - for example, it corrects [this bug](https://github.com/CommandPost/FCPCafe/issues/314) in Final Cut Pro's output.
+
+It support both `.fcpxml` files and FCPXML Bundles (`.fcpxmld`).
 
 Got ideas or questions? Post them on our [Discussions page](https://github.com/latenitefilms/capacitor/discussions)!
 
