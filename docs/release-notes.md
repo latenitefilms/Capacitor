@@ -1,5 +1,15 @@
 # Release Notes
 
+### 1.1.0 (5)
+
+**🎉 Released:**
+- 17th November 2024
+
+**🔨 Improvements:**
+- Added support for Final Cut Pro 11 and FCPXML v1.13.
+
+---
+
 ### 1.0.1 (4)
 
 **🎉 Released:**
