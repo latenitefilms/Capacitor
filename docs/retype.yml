@@ -24,14 +24,14 @@ links:
   icon: comment-discussion
   target: blank
 
+- text: Discord
+  link: https://ltnt.tv/discord
+  icon: comment-discussion
+  target: blank
+
 - text: FCP Cafe
   link: https://fcp.cafe
   icon: git-branch
-  target: blank
-
-- text: Chris on Twitter
-  link: https://twitter.com/chrisatlatenite
-  icon: people
   target: blank
 
 - text: LateNite
