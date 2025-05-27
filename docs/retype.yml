@@ -1,11 +1,10 @@
 input: .
 output: .retype
 
-url: capacitor.pro # Add your website address here
+url: capacitor.pro
 
 branding:
   title: Capacitor
-  #label: Docs
   logo: static/logo.png
 
 links:
@@ -35,11 +34,9 @@ links:
   target: blank
 
 - text: LateNite
-  link: https://latenitefilms.com
+  link: https://fcp.cafe/latenite/
   icon: light-bulb
   target: blank
 
 footer:
   copyright: "&copy; Copyright {{ year }} LateNite Films Pty Ltd. All rights reserved."
-
-poweredByRetype: false
