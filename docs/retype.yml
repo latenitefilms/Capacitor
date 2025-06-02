@@ -40,3 +40,8 @@ links:
 
 footer:
   copyright: "&copy; Copyright {{ year }} LateNite Films Pty Ltd. All rights reserved."
+
+poweredByRetype: false
+
+scheme:
+  mode: dark
