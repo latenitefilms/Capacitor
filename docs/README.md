@@ -23,6 +23,8 @@ Because Capacitor ensures it outputs FCPXML following Apple's strict DTD rules, 
 
 It support both `.fcpxml` files and FCPXML Bundles (`.fcpxmld`).
 
+You can also convert Final Cut Pro 7 XML into FCPXML.
+
 Got ideas or questions? Post them on our [Discussions page](https://github.com/latenitefilms/capacitor/discussions)!
 
 ![](/static/homepage.png)
