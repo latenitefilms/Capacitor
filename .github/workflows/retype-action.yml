@@ -15,11 +15,16 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - uses: retypeapp/action-build@latest
+        with:
+          verbose: true
         env:
           RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
+          # Work around Retype 4.6.0's concurrent file-copy race, which makes
+          # random "Failed to deploy" errors on static files.
+          DOTNET_PROCESSOR_COUNT: "1"
 
       - uses: retypeapp/action-github-pages@latest
         with:
